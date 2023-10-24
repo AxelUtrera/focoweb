@@ -121,6 +121,6 @@ body{
 }
 
 .focoOn{
-    background-color: lightyellow;
-    box-shadow: 0 10px 100px 10px lightyellow;
+    background-color: rgb(251, 251, 195);
+    box-shadow: 0 10px 100px 10px rgb(220, 220, 109);
 }
