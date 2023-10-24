@@ -19,8 +19,8 @@ function foco (){
             btn.classList.add("on");
             focoArriba.classList.add("focoOn");
             focoAbajo.classList.add("focoOn");
-            
-            document.body.style.backgroundColor = "#ffff"
+            document.body.style.transition = "background-color 0.5s";
+            document.body.style.backgroundColor = "#ffff";
         }
 
         switchPrendido = !switchPrendido;
